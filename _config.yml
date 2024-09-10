@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dublin_pp_imran_mini.JPG"
+  avatar           : "dublin_pp_imran_mini.png"
   name             : "Ahsan Imran"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant for MAIM Lab, University of Dhaka"
