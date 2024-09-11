@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ahsan's Homepage"
+title                    : "Imran's Homepage"
 title_separator          : "-"
 name                     : &name "Ahsan Imran"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "dublin_pp_imran_mini.png"
-  name             : "Imran"
+  name             : "Ahsan Imran"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant for MAIM Lab, University of Dhaka"
   location         : "Dhaka, Bangladesh"
